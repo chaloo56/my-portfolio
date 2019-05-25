@@ -8,9 +8,26 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   } 
+  img{
+    -webkit-border-radius:70px;
+    margin-left: 1cm;
+    margin-top: 1cm;
+  }
+  .header{
+      padding: 20px;
+      margin-left:500px;
+      height: 400px;
+    
+  }
+  .portfolio > h1{
+     text-shadow: 3px 2px grey;
+     
+
+  }
   .port-f {
     height: 100%;
     width: 500px;
+    text-align: center;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -23,6 +40,22 @@
   .main {
     margin-left: 500px;
     padding-left: 20px;
+    /* background-image: url('home/moringa/Documents/IP-assign/images/padlock.jpg') */
+  }
+
+  #about-me{
+    max-width: 600px;
+    margin: 40px auto 0 auto;
+    background-color: white;
+    opacity: 0.5;
+    border: 1px dashed grey;
+  
+    -webkit-border-radius:15px;
+    -webkit-box-shadow:rgba(110, 110, 110) 10px 10px 10px;
+    text-indent: 50px;
+  
+  
+  
   }
   
  
