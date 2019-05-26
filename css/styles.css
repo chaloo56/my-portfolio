@@ -19,6 +19,9 @@
       height: 400px;
     
   }
+  h1{
+      font-size: 90px;
+  }
   .portfolio > h1{
      text-shadow: 3px 2px grey;
      
