@@ -1,23 +1,20 @@
 # IP-Project
-Moringa PREP Individual Projects
+Moringa PREP Charles Osoro personal portfolio Individual Projects
 # {Portfolio}
-#### {It shows the previous projects in my portfolio}, {23 November, 2018}
-#### By **{Emmanuel Okudo}**
+#### {It shows the previous projects in my portfolio}, {27 May, 2019}
+#### Author  **{Charles Onkoba}**
 ## Description
-{This is a portfolio application. Its purpose is to highlight the past varied projects within my portfolio. The aim is to give prospective employers and clients a chance to see the kind of work that I do as far as web applications are concerned. }
+{This is a portfolio of myself and it all talks about my skills and the number of projects I have worked on basicall my hobbies and contact information . }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Am still trying to work on the styling of the page to make it more appealing. }
+* git clone 
+* cd my portfolio
+* open index.html from a browser
+* 
+
 ## Technologies Used
-{The languages and tools used to create this app are HTML, CSS, Atom and JavaScript. By using HTML, I have been able to come up with a basic webpage.}
+{The technolgy used in this simple webpage is based on HTML AND CSS.}
 ## Support and contact details
-{In case of any issues or have questions, ideas or concerns, feel free to contact me or make a contribution to the code.}
+{Am available through chaloo56@gmail.com if there is any issue feel free to contact me.}
 ### License
-*{This project is licensed under the terms of the MIT license.}*
-Copyright (c) {2018} **{Charles}**
+*{I acquired the licence from MIT.}*
+Copyright (c) {2019} **{Charles Onkoba}**
