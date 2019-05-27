@@ -1,56 +1,43 @@
-
 * {
     box-sizing: border-box;
-    
-  }
-  
-  body {
+    }
+    body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-<<<<<<< HEAD
-  } 
-=======
-    
-  } 
-  .port-f img{
+    } 
+    .port-f img{
     border-radius:70px;
     margin-left: 1cm;
     margin-top: 1cm;
-  }
-  .header{
+    }
+    .header{
     background-image: url("./images/grad-1.jpeg");
     padding: 20px;
     max-width: 100%;
     height: 400px;
     background-color: #f1f1f1;
-  }
-  .header-c{
-      background-image: url("./images/grad-1.jpeg")
-  }
+    }
+    .header-c{
+    background-image: url("./images/grad-1.jpeg")
+    }
+    .portfolio > h1{
+    text-shadow: 10px 10px grey;
+    font-size: 90px;
+    text-align: center;
     
- 
-  .portfolio > h1{
-     text-shadow: 10px 10px grey;
-     font-size: 90px;
-     text-align: center;
-     
-
-  }
-  .nav1{
+    }
+    .nav1{
     text-align: right;
     padding: 20px;
     justify-content: space-around;
     border: 2px solid grey;
     padding: 10px 20px;
     text-decoration: none;
-     
-  }
- .nav1 li{
-      display: inline-block;
-      
-  }
->>>>>>> step1-theme
-  .port-f {
+    }
+    .nav1 li{
+    display: inline-block;
+    }
+    .port-f {
     height: 100%;
     width: 500px;
     text-align: center;
@@ -60,46 +47,34 @@
     left: 0;
     background-color: #111;
     overflow-x: hidden;
-  }
-  
-
-  .main {
+    }
+    
+    .main {
     margin-left: 500px;
     padding-left: 20px;
-<<<<<<< HEAD
-  }
-  
- 
-  
-=======
+    }
     
-  }
-
-  #about-me{
+    #about-me{
     max-width: auto;
     margin: 20px;
     height: auto;
-    background-color: white;  
+    background-color: white; 
     box-shadow:rgba(110, 110, 110) 10px 10px 10px;
     text-indent: 50px;
-  }
- .weast-z .tee-h{
+    }
+    .weast-z .tee-h{
     width: 320px;
     padding: 10px;
     border: 10px solid gray;
     margin: 0;
-  }
-  #my-projects {
+    }
+    #my-projects {
     display: flex;
     box-shadow:rgba(0, 0, 0) 20px 20px 20px;
     justify-content: space-around;
     background-color: #f1f1f1;
     margin: 40px auto 0 auto;
-  }
-  h3, h2{
-      text-align: center;
-  }
-  
- 
-  
->>>>>>> step1-theme
+    }
+    h3, h2{
+    text-align: center;
+    }
